@@ -1,4 +1,4 @@
-This is the code for EviDR
+This is the code for EviDR.
 
 ## Environment
 
